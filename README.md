@@ -16,4 +16,7 @@
 </div>
 <div id="count" align="center">
   <img src="https://komarev.com/ghpvc/?username=kimaleks&style=flat-square&color=blue" alt=""/>
+  <h1>
+  <img src="https://media1.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif?cid=ecf05e474qvpgcfxa7zdd4eigmevkv2vym8gp2iyt3a02rbe&rid=giphy.gif&ct=g" width="200"/>
+</h1>
   </div>
